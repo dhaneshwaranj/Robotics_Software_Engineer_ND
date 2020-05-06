@@ -1,0 +1,3 @@
+/home/robond/Desktop/gazebo_world/build/CMakeFiles/edit_cache.dir
+/home/robond/Desktop/gazebo_world/build/CMakeFiles/rebuild_cache.dir
+/home/robond/Desktop/gazebo_world/build/CMakeFiles/welcome.dir
